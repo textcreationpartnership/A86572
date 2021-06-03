@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Horrible and bloody conspiracy undertaken by many desperate persons who cry up and introduce the interests of Charles Stewart would have destroyed &amp; burned the city, made an attempt on the tower! seized upon many honorable personages, and covered all things with fire and blood. The names of those speedily to by tryed by the High Court of Justice, are, John Russell Iohn Mordan Sir William Compton Sir Richard Willis Sir Henry Slingsby Doctor Hewet. The names of those apprehend[e]d on Saturd[a]y May the 15. and since. are, Sir William Leighton, Mr. Brandone. Mr. Manly. Mr. Blunden. Mr. Topham, Mr. Dean, Mr. Friar. Mr. Smith. &amp;c. [T]ogether, with the gallant mustring of the trained bands of the city of Friday May 21.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86572</idno><idno type="EEBO-CITATION">99868714</idno>
+  <idno type="VID">170515</idno>
+  <idno type="EEBO-PROQUEST">2240964981</idno>
+  
+            <idno type="STC">Wing H2855</idno>
+            <idno type="STC">Thomason E1881_1</idno>
+            <idno type="STC">ESTC R209860</idno>
+            <idno type="PROQUEST">99868714</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868714e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170515)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 234:E1881[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Horrible and bloody conspiracy undertaken by many desperate persons who cry up and introduce the interests of Charles Stewart would have destroyed &amp; burned the city, made an attempt on the tower! seized upon many honorable personages, and covered all things with fire and blood. The names of those speedily to by tryed by the High Court of Justice, are, John Russell Iohn Mordan Sir William Compton Sir Richard Willis Sir Henry Slingsby Doctor Hewet. The names of those apprehend[e]d on Saturd[a]y May the 15. and since. are, Sir William Leighton, Mr. Brandone. Mr. Manly. Mr. Blunden. Mr. Topham, Mr. Dean, Mr. Friar. Mr. Smith. &amp;c. [T]ogether, with the gallant mustring of the trained bands of the city of Friday May 21.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere, and Wil. Gilbertson, without Newgate,</publisher>
+                  <pubPlace>[L]ondon, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some letters have failed to print.</note>
+                  <note>Annotations on Thomason copy: "/May/"; "May 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Conspiracies --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170515:1"/>
+            <p>The Horrible and Bloody CONSPIRACY Vndertaken by many Des<g ref="char:EOLhyphen"/>perate Persons who to cry up and in<g ref="char:EOLhyphen"/>troduce the Interests of <hi>Charles Stewart</hi> would have destroyed &amp; burned the City, made an attempt on the lower seized upon many honorable personages, and covered all things with Fire and Blood.</p>
+            <p>The Names of those speedily to be tryed by the High Court of Justice, are,
+<list>
+                  <item>
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ohn Russell</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ohn Mordan</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ir <hi>William Compton</hi>
+                  </item>
+                  <item>Sir <hi>Richard Willis,</hi>
+                  </item>
+                  <item>Sir <hi>Henry Slingsby</hi>
+                  </item>
+                  <item>
+                     <hi>Doctor Howet.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Names of those apprehend<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on Saturday May the 15. and since. are,
+<list>
+                  <item>Sir <hi>William Leighton,</hi>
+                  </item>
+                  <item>Mr. <hi>Brandone.</hi>
+                  </item>
+                  <item>Mr. <hi>Manly.</hi>
+                  </item>
+                  <item>Mr. <hi>Blunden.</hi>
+                  </item>
+                  <item>Mr. <hi>Topham,</hi>
+                  </item>
+                  <item>Mr. <hi>Dean,</hi>
+                  </item>
+                  <item>Mr. <hi>Friar.</hi>
+                  </item>
+                  <item>Mr. <hi>Smith.</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ogether, with the gallant Mustring of the Trained bands of the City on Friday May 21.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ondon,</hi> Printed for <hi>Tho. Vere,</hi> and <hi>Wil. Gilbert<g ref="char:EOLhyphen"/>son,</hi> without Newgate 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170515:2"/>
+            <pb n="1" facs="tcp:170515:2"/>
+            <head>A more full Account of the Names of those Confpirators who (to imbrew again the Nation in a new war) would have Levyed a new Army for the Interests of <hi>Charles Stewart,</hi> and have fired the Ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> in severall pla<g ref="char:EOLhyphen"/>ces to accomplish their bloody Designes.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>OV may remember that not long stuce we did represent unto you the gallant Reso<g ref="char:EOLhyphen"/>lution of the Common-coun<g ref="char:EOLhyphen"/>cil and the Militia of the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> declaring that they would lay down both their lives and fortunes in the cause in which God hath ow<g ref="char:EOLhyphen"/>ned his Highnesse for the defence of the Common-wealth of <hi>England,</hi> and the main<g ref="char:EOLhyphen"/>tainance
+<pb n="2" facs="tcp:170515:3"/> of their own Rghts and libertyes. At the same time there were represented many Declarations and Remonstrances from the Army in <hi>Scotland, Ireland</hi> and o<g ref="char:EOLhyphen"/>ther places, declaring the same Rerolution to live and dye with his Highnesse.</p>
+            <p>It wil not be amisse, to give you a more full and large account of them, that so the generall inclination of the Souldiers and o<g ref="char:EOLhyphen"/>thers of this nation being found you may in<g ref="char:EOLhyphen"/>crease your admiration that any men should be so unreasonable, as to go about to untwist a Thrée-fold cord which is not easily broken by indeavouring to dissolve the strength be<g ref="char:EOLhyphen"/>twixt <hi>England, Scotland and Ireland,</hi> which is so firm, and so united. And how could they b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing about this Indeavour bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by firing the City of <hi>London,</hi> the place that gave life un<g ref="char:EOLhyphen"/>to many of them and accomodations to them all, and this to be done, when the City and the th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Nations had given assurances upon assurance that they would stand with his Highnesse against all Enemyes wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>soever: for they throughly represented, that as often as they look back upon the times past, and call to min<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the wonderfull things that God hath done for them within the compasse and
+<pb n="3" facs="tcp:170515:3"/> revolution of a few years, they cannot but stand amazed at the Admirable <hi>Series</hi> and course of the Divine providene<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hath still gone on in a way not only beyond, but be<g ref="char:EOLhyphen"/>sides their expectation, that so they might be made to know that it was the Lords own doing, and that they themselves were onely but weak and unworthy instruments guided and directed, and acted also by a power above them.</p>
+            <p>They have faithfully represented, that they do find the Lord hath brought glorious things to passe for his people such as some<g ref="char:EOLhyphen"/>times they did neither look nor hope for, such as do make them to acknowledge and con<g ref="char:EOLhyphen"/>fesse that God knoweth better what is good for them then they themselves do. They are pleased to remember the good cause which they first ingaged in, and their frequent and renewed ingagements, and their constant Actings, and prosecutions of it; which, al<g ref="char:EOLhyphen"/>though it was under severall forms and by se<g ref="char:EOLhyphen"/>verall means, yet it was still the same. <hi>Viz.</hi> The bringing the Nations out of slavery, and the asserting of the spirituall and civill liberty to the people of Grd</p>
+            <p>But above all things, they cannot forget
+<pb n="4" facs="tcp:170515:4"/> how highly Instrumentall, God hath made his Highnesse all along in this businesse; so that under God they may say; that by his Highnesse it is that they have not perished in their own follies, nor qecome a prey to the malice of their Enemies.</p>
+            <p>They have declared, that they are truely sensible of the mistakes, divisions &amp; animosi<g ref="char:EOLhyphen"/>ties that have bin amongst them, insomuch that some would have confined the mind and end of God in the great action to their formes, some again to their advantages, and advancement, and by striving so vehement<g ref="char:EOLhyphen"/>ly and so obstinately for their own wayes, the Cause of God had bin betrayed, and the people of God brought into a worse con<g ref="char:EOLhyphen"/>dition then ever had it not bin for the piety and the prudence of his Highnesse, who still followed the good hand of providence, and was still guided and upheld by it.</p>
+            <p>But now when it h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th pleased God to give them some fruit of their Prayers and endeavours, and some reward of his High<g ref="char:EOLhyphen"/>nesse labours, when after their long, their troublesome, and dangerous Pilgrimage through the red Sea of blood, and wildernesse of confusion, they have obtained to some pro<g ref="char:EOLhyphen"/>spect,
+<pb n="5" facs="tcp:170515:4"/> nay to some tast and Function of <hi>Cana<g ref="char:EOLhyphen"/>an</hi> the resting place of Gods people: Now after the foundation of <hi>Sion</hi> hath béen begun to be laid, and that they had hopes of chang<g ref="char:EOLhyphen"/>ing the Tabernacle into a Sanctuary (a san<g ref="char:EOLhyphen"/>ctuary which they might both hope and pray; might continue untill <hi>Shiloh</hi> come) they can<g ref="char:EOLhyphen"/>not but entertain great grief and heavy im<g ref="char:EOLhyphen"/>pressions of their hearts, to perceive that there should be some of those who once went among them, still doubting, and murmuring, nay disparaging the promised Land and dis<g ref="char:EOLhyphen"/>heartning the people, and indeauouring to bring them back again to the house of Bon<g ref="char:EOLhyphen"/>dage to have their tasks trebly augmented, if not their Generations altogether rooted out.</p>
+            <p>At such a time they doe acknowledge they would be wanting to the cause of God, and to their own duties and ingagements, if they should not beare witnesss against such per<g ref="char:EOLhyphen"/>sons and actings, especially sine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they under<g ref="char:EOLhyphen"/>stand that some of them are willing to have the people of <hi>England</hi> to beléeve, that his Highnesse Army in <hi>Scotland</hi> is such as they would have them.</p>
+            <p>Therefore in all humble manner they have made their addresses to his Highnesse, and
+<pb n="6" facs="tcp:170515:5"/> have both professed and protested that they still doe and will adhere to the glorious Cause in which they were first engaged, and in the defence the prosecution and advance<g ref="char:EOLhyphen"/>ment of that cause they shall (as hitherto they have done) be ready alwayes to adven<g ref="char:EOLhyphen"/>ture their lives and fortunes, for they know no other way (as providence now hath orde<g ref="char:EOLhyphen"/>red things) to maintain and advance that Cause, but only by continuing true and faith<g ref="char:EOLhyphen"/>full to his Highnesse, by whose prudence and valour it hath for a long time bin solely pre<g ref="char:EOLhyphen"/>served and by whose piety they are confident not only to have their Ingagements, but e<g ref="char:EOLhyphen"/>ven the very wishes of their hearts fulfilled, and that in the pursuance of this Cause they will stand by his Highnesse with their lives and fortunes against all persons what soever, not only, the common Enemy, but even those who heretofore have béene so much their friends (if they shall make an op<g ref="char:EOLhyphen"/>position) for whom although they have great tendernesse and bowells of compassion, and for whom they are even bold to become In<g ref="char:EOLhyphen"/>tercessors to his Highnesse, that all good meanes may be used to bring them to a right sence, yet they can no wayes suffer them to
+<pb n="7" facs="tcp:170515:5"/> hinder, much lesse to destroy the worke of God.</p>
+            <p>They therefore beséech his Highnesse to be strong, and of a good courage, and they shall ever pray, that as the Lord hath hither<g ref="char:EOLhyphen"/>to prospered him he will evermore continue to make him happy and victorious.</p>
+            <p>This being the sence and resolution of the thrée Armies in the thrée Nations, of the City of <hi>London,</hi> and all men who are in<g ref="char:EOLhyphen"/>tire to wisdome and understanding, who can imagine that so unreasonable a spirit of folly and division should possesse some men as to breake this staffe of Vnion to destroy the peace of the Nations and to indeavour to mingle all things with fire and blood.</p>
+            <p>And that this is so, may appear by the ex<g ref="char:EOLhyphen"/>amniation of severall pactyes of quality who lately have bin aprehended upon suspition of Treason; you have heard many wéeks since that Colonell <hi>John Russell</hi> who served the late King in his wars, and is Brother to the Earle of <hi>Bedford</hi> was committed to y<seg rend="sup">e</seg> Tow<g ref="char:EOLhyphen"/>er upon the atttainder of high Treason, &amp; that sir <hi>William Compton,</hi> Brother to the Earle of <hi>Northampton,</hi> and sometimes Go<g ref="char:EOLhyphen"/>vernor of <hi>Banbury</hi> in <hi>Ox fordshire,</hi> for the
+<pb n="8" facs="tcp:170515:6"/> late King was comitted not long afterwards to the Tower upon the same account.</p>
+            <p>Since that time Mr <hi>John Mordant</hi> bro<g ref="char:EOLhyphen"/>ther to the Earle of <hi>Peterborough</hi> hath béen committed to the Tower.</p>
+            <p>Sir <hi>Richard Willis</hi> heretofore Governor of <hi>Newark</hi> for the late King hath bin also ap<g ref="char:EOLhyphen"/>prehended, and carryed from <hi>Covent Garden</hi> to the Tower of <hi>London</hi> for high Trea<g ref="char:EOLhyphen"/>son.</p>
+            <p>Sir <hi>Henry Slingsoy</hi> of <hi>Yorkshire,</hi> Knight and Baronet: hath upon the same Account béen carryed to the Tower of <hi>London.</hi>
+            </p>
+            <p>Doctor <hi>John Hewet.</hi> Chaplain to the late King, and Doctor of Divinity, hath also bin lent to the Tower upon the account of high Treason against the present Government and the person of his Highnesse the Lord Protector.</p>
+            <p>It was suspected that some of the Presbi<g ref="char:EOLhyphen"/>terian party, and the Anabaptists should by a strange mixture joyn together, and have a hand in this desprate plot.</p>
+            <p>It was thought also that some of the men of the fifth Monarchy should take the bridle in their mouths, and run quite away from all order and Government: but upon the exam<g ref="char:EOLhyphen"/>ination
+<pb n="9" facs="tcp:170515:6"/> of many of them it did not appear y<seg rend="sup">t</seg> they had any Ingagement in this bloody com<g ref="char:EOLhyphen"/>bination.</p>
+            <p>It was contrived by the Cavaléers, and carryed on so far, y<seg rend="sup">t</seg> one Mr. <hi>Manly</hi> a <hi>Turkish</hi> Merchant had received a Commission from <hi>Charles Stewart,</hi> which in <hi>January</hi> last was dated at <hi>Bruges</hi> in <hi>Fland<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs.</hi>
+            </p>
+            <p>This Mr. <hi>Manly</hi> by his Commission was to be one of the Colonells in this Design, which was to be carryed on with all vigour and privacy.</p>
+            <p>It séems that <hi>Charles Stewart</hi> had so good a conceit of him, that he gave power to the said Mr. <hi>Manly</hi> to make whom he pleased officers under him, and to give them Com<g ref="char:EOLhyphen"/>mission as it is confessed by some of his com<g ref="char:EOLhyphen"/>panions who desiring to understand the full latitude and the depth of the Design be made answer to them, that they were not to enquire into farther perticulars, but satisfie themselvs that the others who in chief were to com<g ref="char:EOLhyphen"/>mand with him were all persons of worth and honour.</p>
+            <p>Danger appearing to be so considerable and on foot too it was high time for his High<g ref="char:EOLhyphen"/>nesss to look about him. It hath béen a great
+<pb n="10" facs="tcp:170515:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:170515:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:170515:8"/> providence that in all the plots that have bin laid to imbroyle the N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion in a new warr, they have been wonderfully discovered, be<g ref="char:EOLhyphen"/>fore they came to take effect: Of this we may make a long Catalogue, but they are all fresh and present in our memoryes.</p>
+            <p>His Highnesse by the mercy of God having understood of this combination which tended so much to the ruine of the publike, and im<g ref="char:EOLhyphen"/>brewing the Nation in a bloody war, again thought fit by the Advice of his Counsell, that a high Court of Iustice should be called for the Tryall of the Delinquents that are so dangerous to the state: And on <hi>Monday May</hi> the 17. the Commissioners of the said high Court of justice did méet in the painted chamber, where they had a méeting in order to the Tryall of these Delinquents not long before. On this afternoon they took the Oath appointed by a former Act of the Parlia<g ref="char:EOLhyphen"/>ment,</p>
+            <p>The right Honourable the Lord <hi>Lisl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> one of the Commissioners of the great Seal w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> chosen to be Lord President of the Court, And a Debate being made cencerning the choyce of other Officers, it was resolved that the same Officers who attended thelate high
+<pb n="11" facs="tcp:170515:8"/> Court of justice, should be made choyce of to serve in this; It was ordred also, that a place should be made for them to sit in, as heretofore at the upper end of <hi>Westminster-Hall,</hi> and Carpenters were appointed for the carrying on of the work.</p>
+            <p>But neither the nomination of the Com<g ref="char:EOLhyphen"/>missioners, nor the preparations of the Court, nor the apprehending and exami<g ref="char:EOLhyphen"/>ning of so many of the Plotters could deter their accomplices from going on in their most desperate designe. Therefore an ex<g ref="char:EOLhyphen"/>traordinary care was taken to prevent them and on Saturday <hi>May</hi> the 15. the Guards were doubled at <hi>White-hall,</hi> and in all the other plac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s where the Guards are usually kept. Severall Innes and Taverns were examined and some Armes were discovered, at the severall Gates of the City and in o<g ref="char:EOLhyphen"/>ther places, about sorty of the Cavaléer party were brought to <hi>White hall,</hi> some were sent to the <hi>Gate-house,</hi> some to <hi>Pau<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> some to the <hi>Councers,</hi> some to the <hi>Tower,</hi> some to one Prison, some to another for that night was appointed to be the night in which they would make their generall Insurrection.</p>
+            <p>They had appointed severall places of
+<pb n="12" facs="tcp:170515:9"/> Rendezvouz in severall places of the City, as some of them acknowledged when they were examined. They had many Regiments listed. Eleven a clock at night was the time in which they were to have bin ready to act, and the better to carry on what they had in<g ref="char:EOLhyphen"/>tended to perpetate, they had an intent to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re the City in severall places.</p>
+            <p>Amongst those who were apprehended on Saturday night and carried away to Prison, was one Sir <hi>William Leighton,</hi> who in the late warrs commanded the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owne Troope, and was afterwards a Colonell in <hi>Colchester.</hi>
+            </p>
+            <p>There was also a Major apprehended who formerly had béen a Major of horse in <hi>Glo<g ref="char:EOLhyphen"/>cestershire</hi> for the late King, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> served him afterwards at <hi>VVallingford</hi> under Colonel <hi>Blague.</hi>
+            </p>
+            <p>There were severall others who were ta<g ref="char:EOLhyphen"/>ken with this Major at the sign of the Bell. in <hi>Carterlane,</hi> who have confessed much, they were carried with said Major unto the Tower.</p>
+            <p>There were also severall Captains and o<g ref="char:EOLhyphen"/>ther officers taken who were of y<seg rend="sup">e</seg> late kings party, and are now in Custody in the Tower
+<pb n="13" facs="tcp:170515:9"/> severall Apprentices were taken and are stil in Custody, some of whom have made large Confessions.</p>
+            <p>You are to understand that so many have bin apprehended, that the Lord Leiut. of y<seg rend="sup">e</seg> Tower hath ever since y<seg rend="sup">e</seg> said <hi>Saturday</hi> night bin constantly imployed in taking Informa<g ref="char:EOLhyphen"/>tions and Examinations, and in sending out warrants for the apprehending of suspected persons.</p>
+            <p>There is taken one Mr. <hi>Topham</hi> a Silk<g ref="char:EOLhyphen"/>man of <hi>Canon-street,</hi> who confesseth he was entertained as a Captain in <hi>Manleys</hi> Regi<g ref="char:EOLhyphen"/>ment, and for the better managing the design there were brought to y<seg rend="sup">e</seg> said <hi>Tophams</hi> he use al sorts of Ammunition a great part of which as <hi>Topham</hi> himself confesseth was caryed a<g ref="char:EOLhyphen"/>way, &amp; a great part thrown into the house of office when they found the Design to be dis<g ref="char:EOLhyphen"/>covered.</p>
+            <p>This <hi>Topham</hi> and <hi>Manly</hi> were principal m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that were to act in this City, and they had undertaken to seize on the right honou<g ref="char:EOLhyphen"/>rable the Lord <hi>Robert Titchborn,</hi> unto whose valour and Vigilance the City oweth much for it's safty. Sir <hi>William Leighton</hi> was to surprize y<seg rend="sup">e</seg> guard of the Souldiers at
+<pb n="14" facs="tcp:170515:10"/>
+               <hi>Pauls,</hi> and to make sure of y<seg rend="sup">e</seg> Tower of which shortly you will have a more large account.</p>
+            <p>There is one Fryer in <hi>Tower-street</hi> who is apprehended &amp; carryed to the Tower who was to be a Commander in <hi>Manlyes</hi> Reig<g ref="char:EOLhyphen"/>ment, &amp; who had furnished those of his party with powder, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets, &amp; other materials for war</p>
+            <p>There is also one Captain <hi>Dean</hi> apprehen<g ref="char:EOLhyphen"/>ded for this Conspiracy, who with some o<g ref="char:EOLhyphen"/>thers, had promised to beat down all before them in <hi>Holborn, Covent Garden</hi> and those parts of the City.</p>
+            <p>There is also one <hi>Brandon</hi> &amp; <hi>John Blundon</hi> apprehended who were both to be Comman<g ref="char:EOLhyphen"/>ders in the Army. And many more are taken dayly, as a Linnen Draper living at the go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>den Key in <hi>Cheapside,</hi> and many others who being sent to severall prisons, and some upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the guard among the Souldiers it is impossi<g ref="char:EOLhyphen"/>ble for y<seg rend="sup">e</seg> present to give a list of their names</p>
+            <p>On <hi>Friday May the</hi> 21. the Train'd bands of the City of <hi>London</hi> had a general muster in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>insbury fields,</hi> where they gallantly showed how experienced and how resolute they were to maintain the honour of the Ci<g ref="char:EOLhyphen"/>ty and their own Interests and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fty against all Opponents whatsoever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
